@@ -1,13 +1,25 @@
-body{
-    background-color: black;
+.cabecalho{
+    background-color: white;
+    width: 600px;
+    padding: 10px;
+    color: black;
+    text-align: left;
+    font-size: 20px;
 }
-h2{background-color:aqua;
-   color:blanchedalmond
-   font-size:larger;
+.conteudo{
+    background-color: beige;
+    width: auto;
+    padding: 30px;
+    color: black;
+    text-align: center;
+    font-size: 20px;
+    font-family: Georgia;
 }
-h1{
-    color:darkgray;  }
-    h3{background-color:azure;
-    color:antiquewhite;
-font-size: medium;
+.rodape{
+    background-color: bisque;
+    width: auto;
+    padding: 10px;
+    color: cadetblue;
+    text-align: center;
+    font-size: 20px;
 }
