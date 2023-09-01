@@ -1,25 +1,8 @@
-.cabecalho{
-    background-color: white;
-    width: 600px;
-    padding: 10px;
-    color: black;
-    text-align: left;
-    font-size: 20px;
-}
-.conteudo{
-    background-color: beige;
-    width: auto;
-    padding: 30px;
-    color: black;
+body{
+    font-size: 30px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
     text-align: center;
-    font-size: 20px;
-    font-family: Georgia;
-}
-.rodape{
-    background-color: bisque;
-    width: auto;
-    padding: 10px;
-    color: cadetblue;
-    text-align: center;
-    font-size: 20px;
+    text-decoration: underline;
+    text-transform: capitalize;
 }
